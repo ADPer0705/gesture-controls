@@ -1,0 +1,9 @@
+[project]
+name = "kinetic-controls"
+version = "0.1.0"
+description = "Gesture-based system controls using computer vision."
+license = "MIT"
+dependencies = [
+    "opencv-python",
+    "mediapipe"
+]
